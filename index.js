@@ -27,7 +27,7 @@ function shown(){
     "<div id='descriptionText'>"+
     "It's a common adage that if you're healthy, nothing can stop you from being wealthy. We constantly abide by this rule, but sometimes we fail to remember that health is not just about bodily well-being; mental well-being is just as significant. The most crucial aspect is mental wellness, and it must never be neglected! We sometimes don't even become aware that we have this illness. Additionally, due to societal anxieties, when people learn about this sickness, they strive to hide it. But having sadness or something like is entirely natural or acceptable. It's similar to any other ailment in that it has to be caught early to prevent any dangerous situations! We must first do certain screening tests at our level in order to achieve that. This quick exam is created for depression self-screening. The time it takes to complete this test—barely more than 10 minutes—could save your life or the lives of those dear to you! Data is solely requested for assessment reasons because it is an anonymous test. You may take this exam if you are at least 16 years old."+
     '</div>'+
-    '<div id="footerDisclamair">ElysianMind By <i>Munshi Mohammad Zunejo & Sayantan Pal</i></div>'+
+    '<div id="footerDisclamair"> Powered By MH-Buddy </div>'+
     '<div id="warningText"><i class="fa fa-exclamation-circle" style="font-size:30px"></i>'+
     '<div >This is just a small self-screening and to get the best treatment, Doctor Consultation is advisable!</div></div>'+
     '<button id="startText" class="mainBtn" title="Click Here To Start The Test" onclick="startTheTest()">Start The Test</button>';
